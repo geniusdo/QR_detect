@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liuchuangye/c++/QR_detect/build",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -isystem /usr/local/include/opencv4   -Wall -g   -std=gnu++14 -o CMakeFiles/project.dir/src/main.cpp.o -c /home/liuchuangye/c++/QR_detect/src/main.cpp",
+  "file": "/home/liuchuangye/c++/QR_detect/src/main.cpp"
+}
+]

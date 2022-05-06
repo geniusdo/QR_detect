@@ -1,0 +1,3 @@
+/home/liuchuangye/c++/QR_detect/CMakeFiles/rebuild_cache.dir
+/home/liuchuangye/c++/QR_detect/CMakeFiles/edit_cache.dir
+/home/liuchuangye/c++/QR_detect/CMakeFiles/project.dir
